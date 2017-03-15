@@ -12,7 +12,7 @@ This matlab program generates a thrust curve profile by interpreting a spline fr
 - [ ] document how to add more ports
 - [ ] create export button
 - [ ] add ability to adjust min and max of sliders (buttons maybe?)
-
+- [ ] OPTIONAL - make control panel scrollable to allow for large number of sliders
 
 ## Code Notes
 
